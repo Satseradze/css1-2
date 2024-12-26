@@ -1,0 +1,150 @@
+ * {
+   margin:0;
+   padding:0;
+   box-sizing: border-box;
+   font-family: lato;
+ }
+
+ main {
+   margin-left: 55px;
+ }
+
+ a {
+   line-height: 32px;
+ }
+
+ p {
+   line-height: 24px;
+ }
+
+ h1 {
+   text-align: center;
+   font-size: 72px;
+   margin-top: 24px;
+   margin-bottom: 37px;
+   font-weight: 700;
+ }
+
+ h2 {
+   font-size: 40px;
+   font-weight: 700;
+   text-align: center;
+ }
+
+ h3 {
+   color: #414651;
+   font-size: 24px;
+   font-weight: 800;
+   line-height: 24px;
+   margin-bottom: 16px;
+ }
+
+ li {
+   list-style: none;
+   line-height: 24px;
+ }
+
+ /*images styles*/
+
+ #stary-night-photo {
+   width: 568px;
+   height: 446px;
+ }
+
+ #butterfly-photo {
+   width: 200px;
+   height: 200px;
+ }
+
+ #horsefish-photo {
+   width: 298.012px;
+   height: 396;
+ }
+
+ /* stary box styles*/
+
+ #stary-box {
+   width: 568px;
+ }
+
+ #night {
+   width: 568px;
+   height: 446px;
+   margin-bottom: 12px;
+ }
+
+ #stary-box_p {
+   text-align: center;
+   color: #414651;
+   font-size: 20px;
+   margin-bottom: 16px;
+   margin-top: 16px;
+ }
+
+ #stary-box_ol {
+   color: #155EEF;
+ }
+
+ #button {
+   font-size: 24px;
+   color: #CEA201;
+   padding: 12px 32px;
+   margin-top: 32px;
+   border: 2px solid #CEA201;
+ }
+
+ /*magic box styles*/
+
+ #magic-box {
+   width: 722PX;
+   margin-top: 74px;
+ }
+
+ #magic-box_p {
+   text-align: center;
+   color: #414651;
+   margin-bottom: 24px;
+   margin-top: 16px;
+   font-size: 20px;
+ }
+
+ #magic-box_work {
+   text-align: center;
+ }
+ 
+ #magic-box_work-p {
+   color: #00C76E;
+   margin-top: 24px;
+   margin-bottom: 16px;
+ }
+
+ #magic-box_work_li {
+   display: inline-block;
+   text-align: left;
+   margin-bottom: 24px;
+   color: #FF5DA3;
+ }
+
+ #magic-box_see {
+   padding: 16px;
+   border: 6px solid #C11574;
+   background-color: #FFDEF0;
+   color: #C27512;
+   margin-top: 24px;
+   margin-bottom: 24px;
+ }
+
+ #magic-box_see-a {
+   text-align: right;
+   display: block;
+   margin-top: 24px;
+   color: #00D4BC;
+   font-size: 24px;
+ }
+
+ #magic-box_see-ul {
+   margin-left: 12px;
+   margin-top: 8px;
+   margin-bottom: 8px;
+ }
+
